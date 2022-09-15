@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0828e3b8.css",
+    "main.js": "/static/js/main.65295c67.js",
+    "static/media/indianfood.webp": "/static/media/indianfood.0629dc25a4b01b5ba228.webp",
+    "index.html": "/index.html",
+    "main.0828e3b8.css.map": "/static/css/main.0828e3b8.css.map",
+    "main.65295c67.js.map": "/static/js/main.65295c67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0828e3b8.css",
+    "static/js/main.65295c67.js"
+  ]
+}
